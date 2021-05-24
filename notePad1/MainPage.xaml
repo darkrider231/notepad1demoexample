@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="notePad1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:notePad1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <CommandBar Background="Blue">
+            <CommandBar.Content>
+                <Grid/>
+            </CommandBar.Content>
+            <AppBarButton x:Name="saveFile" Icon="Save" Label="Save File" ToolTipService.ToolTip="Save File"/>
+            <AppBarButton x:Name="exitFile" Icon="Cancel" Label="Exit App" ToolTipService.ToolTip="Exit App"/>
+        </CommandBar>
+        <RichEditBox x:Name="txtBox1" TextWrapping="Wrap" Margin="0,42,0,0" PlaceholderText="Enter some text..." IsSpellCheckEnabled="True" AcceptsReturn="True" />
+
+    </Grid>
+</Page>
