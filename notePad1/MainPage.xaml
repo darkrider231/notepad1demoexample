@@ -13,10 +13,22 @@
             <CommandBar.Content>
                 <Grid/>
             </CommandBar.Content>
-            <AppBarButton x:Name="saveFile" Icon="Save" Label="Save File" ToolTipService.ToolTip="Save File"/>
-            <AppBarButton x:Name="exitFile" Icon="Cancel" Label="Exit App" ToolTipService.ToolTip="Exit App"/>
+            <AppBarButton x:Name="textSpeech" Icon="Microphone" Label="TTS" ToolTipService.ToolTip="Text-to-Speech" ClickMode="Release" Click="textSpeech_Click"  />
+            <AppBarButton x:Name="readAloud" Icon="Volume" Label="Read Aloud" ToolTipService.ToolTip="Read Aloud" ClickMode="Release" Click="readAloud_Click"/>
+            <AppBarSeparator/>
+            <AppBarButton x:Name="bold" Icon="Bold" Label="Bold" ToolTipService.ToolTip="Bold" ClickMode="Release" Click="bold_Click"/>
+            <AppBarButton x:Name="italic" Icon="Italic" Label="Italic" ToolTipService.ToolTip="Italic" ClickMode="Release" Click="italic_Click"/>
+            <AppBarButton x:Name="underline" Icon="Underline" Label="UnderLine" ToolTipService.ToolTip="Underline" ClickMode="Release" Click="underline_Click"/>
+            <AppBarSeparator/>
+            <AppBarButton x:Name="leftAlign" Icon="AlignLeft" Label="Left Align" ToolTipService.ToolTip="Left Align" ClickMode="Release" Click="leftAlign_Click"/>
+            <AppBarButton x:Name="centerAlign" Icon="AlignCenter" Label="Center Align" ToolTipService.ToolTip="Center Align" ClickMode="Release" Click="centerAlign_Click"/>
+            <AppBarButton x:Name="rightAlign" Icon="AlignRight" Label="Right Align" ToolTipService.ToolTip="Right Align" ClickMode="Release" Click="rightAlign_Click"/>
+            <AppBarSeparator/>
+            <AppBarButton x:Name="openFile" Icon="OpenFile" Label="Open File" ToolTipService.ToolTip="Open File" ClickMode="Release" Click="openFile_Click"/>
+            <AppBarButton x:Name="saveFile" Icon="Save" Label="Save File" ToolTipService.ToolTip="Save File" ClickMode="Release" Click="saveFile_Click"/>
+            <AppBarButton x:Name="exitFile" Icon="Cancel" Label="Exit App" ToolTipService.ToolTip="Exit App" ClickMode="Release" Click="exitFile_Click"/>
         </CommandBar>
-        <RichEditBox x:Name="txtBox1" TextWrapping="Wrap" Margin="0,42,0,0" PlaceholderText="Enter some text..." IsSpellCheckEnabled="True" AcceptsReturn="True" />
+        <RichEditBox x:Name="txtBox1" TextWrapping="Wrap" Margin="0,40,0,0" PlaceholderText="Enter some text..." IsSpellCheckEnabled="True" AcceptsReturn="True"/>
 
     </Grid>
 </Page>

@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>1F816D4602CBF524B9797D34E23E4F65CF602053D13724E39840660095E41E85</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>C373B0774E20B1E3E25AF89CB615819FDE7BA8B5E3D624F09AA3111FC87424CB</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>326e5a79-2ae4-4151-8e18-e84abf93fbae_1.0.0.0_x86__2sdz1sjs6ffng</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>326e5a79-2ae4-4151-8e18-e84abf93fbae_2sdz1sjs6ffng!App</RegisteredUserModeAppID>
     <RegisteredPackageID>326e5a79-2ae4-4151-8e18-e84abf93fbae</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-24T16:08:50.224</Modified>
+      <Modified>2021-05-25T18:42:37.256</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\notePad1.exe">
       <PackagePath>entrypoint\notePad1.exe</PackagePath>
-      <Modified>2021-05-24T16:08:49.806</Modified>
+      <Modified>2021-05-25T18:42:36.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.11\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,15 +86,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\notePad1.xr.xml">
       <PackagePath>notePad1.xr.xml</PackagePath>
-      <Modified>2021-05-24T16:05:55.097</Modified>
+      <Modified>2021-05-25T17:41:12.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-05-24T16:08:49.742</Modified>
+      <Modified>2021-05-25T18:40:04.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-05-24T16:08:49.742</Modified>
+      <Modified>2021-05-25T18:40:04.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +102,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-05-24T15:20:59.879</Modified>
+      <Modified>2021-05-25T16:50:02.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\Core\notePad1.exe">
       <PackagePath>notePad1.exe</PackagePath>
-      <Modified>2021-05-24T16:08:50.220</Modified>
+      <Modified>2021-05-25T18:42:37.252</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

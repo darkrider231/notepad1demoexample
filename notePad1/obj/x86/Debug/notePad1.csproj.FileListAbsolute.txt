@@ -10,7 +10,6 @@ C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\Core\notePad1.exe
 C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\notePad1.build.appxrecipe
 C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\System.Runtime.dll
 C:\Users\grant\source\repos\notePad1\notePad1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\notePad1.csprojAssemblyReference.cache
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\App.g.i.cs
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\App.g.cs
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\MainPage.g.i.cs
@@ -43,3 +42,4 @@ C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\qualifiers.txt.inter
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\grant\source\repos\notePad1\notePad1\obj\x86\Debug\notePad1.csprojAssemblyReference.cache
